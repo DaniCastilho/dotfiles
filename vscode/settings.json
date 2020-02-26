@@ -1,0 +1,43 @@
+{
+  "typescript.check.npmIsInstalled": false,
+  "window.zoomLevel": 1,
+  "editor.tabSize": 2,
+  "cucumberautocomplete.steps": [
+    "test/step-defs/**/*.js",
+    "node_modules/walnutjs/src/step_defs/**/*.js"
+  ],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "explorer.confirmDelete": false,
+  "extensions.ignoreRecommendations": true,
+  "flow.useNPMPackagedFlow": true,
+  "javascript.validate.enable": false,
+  "flow.pathToFlow": "/Users/daniele.castilho/.nvm/alias/current/bin/flow",
+  "[javascript]": {
+    "editor.formatOnSave": true
+  },
+  "[elm]": {
+    "editor.formatOnSave": true
+  },
+  "typescript.format.enable": false,
+  "material-icon-theme.files.associations": {
+    "*.service.ts": "typescript"
+  },
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "breadcrumbs.enabled": true,
+  "workbench.colorTheme": "Ayu Mirage Bordered",
+  "eslint.options": {
+    "configFile": "/Users/daniele.castilho/Documents/projects/easynvest.client.liveroom/.eslintrc"
+  },
+  "explorer.confirmDragAndDrop": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "eslint.alwaysShowStatus": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "sync.gist": "4ed1f2f43c44101d956c3909f4e7b003"
+}
